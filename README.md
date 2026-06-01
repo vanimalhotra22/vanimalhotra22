@@ -286,8 +286,8 @@ class VaniMalhotra:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vanimalhotra22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanimalhotra22&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" />
+<img width="49%" src="https://github-stats-alpha.vercel.app/api?username=vanimalhotra22&cc=0D1117&tc=00D9FF&ic=00D9FF&bc=0D1117" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanimalhotra22&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&cache_seconds=1800" />
 
 <br/><br/>
 
