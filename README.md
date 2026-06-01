@@ -287,7 +287,7 @@ class VaniMalhotra:
 <div align="center">
 
 <img width="49%" src="https://github-stats-alpha.vercel.app/api?username=vanimalhotra22&cc=0D1117&tc=00D9FF&ic=00D9FF&bc=0D1117" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanimalhotra22&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&cache_seconds=1800" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanimalhotra22&layout=donut&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" />
 
 <br/><br/>
 
@@ -295,7 +295,7 @@ class VaniMalhotra:
 
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vanimalhotra22&theme=tokyonight&no-frame=false&no-bg=true&margin-w=8&column=3&rank=B,A,AA,AAA,S,SS,SSS)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=vanimalhotra22&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=4" />
 
 </div>
 
