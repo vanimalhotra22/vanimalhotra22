@@ -1,203 +1,275 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:0D1117&height=200&section=header&text=Vani%20Malhotra&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%A2%20Research%20Fellow%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=58&descSize=18&descColor=00D9FF" width="100%"/>
-<br/>
-Show Image
-<br/>
-Show Image
-Show Image
-Show Image
-Show Image
-<br/>
-Show Image
-Show Image
+
+```
+██╗   ██╗ █████╗ ███╗   ██╗██╗    ███╗   ███╗ █████╗ ██╗     ██╗  ██╗ ██████╗ ████████╗██████╗  █████╗
+██║   ██║██╔══██╗████╗  ██║██║    ████╗ ████║██╔══██╗██║     ██║  ██║██╔═══██╗╚══██╔══╝██╔══██╗██╔══██╗
+██║   ██║███████║██╔██╗ ██║██║    ██╔████╔██║███████║██║     ███████║██║   ██║   ██║   ██████╔╝███████║
+╚██╗ ██╔╝██╔══██║██║╚██╗██║██║    ██║╚██╔╝██║██╔══██║██║     ██╔══██║██║   ██║   ██║   ██╔══██╗██╔══██║
+ ╚████╔╝ ██║  ██║██║ ╚████║██║    ██║ ╚═╝ ██║██║  ██║███████╗██║  ██║╚██████╔╝   ██║   ██║  ██║██║  ██║
+  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝    ╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝
+```
+
+### `> AI/ML Engineer · Full-Stack Developer · Research Fellow`
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=600&lines=AI%2FML+Engineer+%7C+9.87+GPA+%7C+Top+1%25;LangChain+%7C+RAG+%7C+Transformers+%7C+LLMs;PwC+LaunchPad+%7C+USRF+Research+Fellow;Building+production-grade+AI+systems)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vani-malhotra-contactvani)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanimalhotra00@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vm2180/)
+
+![Profile Views](https://komarev.com/ghpvc/?username=vanimalhotra22&color=00d9ff&style=for-the-badge)
+
 </div>
 
-🧬 About Me
-<img align="right" alt="Coding AI" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-pythonclass VaniMalhotra:
+---
 
-    role        = ["AI/ML Engineer", "Full-Stack Developer",
-                   "AI Research Fellow"]
-    university  = "SRMIST, Kattankulatham, Chennai"
-    cgpa        = 9.87        # Top 1% of cohort
-    batch       = "2023 - 2027"
-    location    = "India"
-    seeking     = "AI/ML | Research | SDE Internship"
+<img align="right" alt="AI Coding" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-    ml_stack    = ["PyTorch", "TensorFlow", "LangChain",
-                   "LangGraph", "RAG", "Transformers",
-                   "Scikit-learn", "Pinecone"]
+## `whoami`
 
-    dev_stack   = ["FastAPI", "Flask", "React",
-                   "Node.js", "Docker", "AWS", "Django"]
+```python
+class VaniMalhotra:
 
-    currently   = "Building production-grade Agentic AI"
-    superpower  = "Research to Production (end-to-end)"
-<br/>
+    role       = ["AI/ML Engineer", "Full-Stack Developer"]
+    university = "SRMIST, Chennai"
+    cgpa       = 9.87  # Top 1% of cohort 🏆
+    batch      = "2023 – 2027"a
+    dev_stack  = ["FastAPI", "React", "Node.js", "Docker", "AWS"]
+    superpower = "End-to-end AI systems: research → production"
+```
 
-🔬 USRF 2025 Research Fellow — Top 1% · YOLO + ResfEANet · 75% mAP improvement
-💼 PwC LaunchPad Intern — GenAI pipelines · Consulting · Data Engineering
-🧠 Expert in Agentic AI, LLM fine-tuning, RAG, and Computer Vision
-🏥 Deployed AI systems in healthcare, agriculture & hyperlocal commerce
-⚡ I don't just train models — I ship systems that solve real problems
+- 🔬 **USRF 2025 Research Fellow** — Top 1% of applicants · YOLO + ResfEANet · 75% mAP gain
+- 💼 **PwC LaunchPad Intern** — AI-automated pipelines · Generative AI · Consulting frameworks  
+- 🧠 Specialized in **Agentic AI**, LLM pipelines, and production ML systems
+- 🏥 Built real-world AI solutions in **healthcare, agriculture, and hyperlocal services**
+- ⚡ I don't just build models — I ship systems that solve real problems
 
-<br clear="right"/>
+---
 
-🏆 Impact at a Glance
-<div align="center">
-MetricValue🎓 CGPA9.87 / 10 — Top 1% of cohort🔬 Research SelectionTop 1% — USRF 2025📈 mAP Improvement+75% on real-world underwater datasets🩺 Diagnostic Accuracy87%+ on X-ray / MRI anomaly detection⏱️ Booking Time Cut80% — Hyperlocal Services Platform💼 Internships5 completed (PwC · Infosys · Infotact · Navodita · VaultOfCodes)📜 Certifications7+ (Snowflake · Oracle · IIT Guwahati · SAP · C-DAC)
-</div>
+## 🔬 Featured: Research & Impact
 
-💼 Work & Research Experience
-<div align="center">
-+--------------------------------------------------------------------------+
-|  PwC (PricewaterhouseCoopers) · LaunchPad Intern                        |
-|  > Built scalable data pipelines & GenAI workflow automation            |
-|  > Translated ML/AI outputs into executive-level business strategy      |
-|  > Competitive campus hire · High-stakes consulting environment         |
-+--------------------------------------------------------------------------+
-|  USRF 2025 · AI Research Fellow  [ TOP 1% OF APPLICANTS ]              |
-|  > YOLO + ResfEANet for underwater object detection                     |
-|  > Murky water augmentation · Anchor tuning · External attention        |
-|  > 75% improvement in mAP — BRAKISH & URPC real-world datasets         |
-+--------------------------------------------------------------------------+
-|  Infosys Springboard 6.0 · AI Identity Verification System             |
-|  > KYC automation via Multi-Modal CV · OCR · Biometric Auth            |
-|  > Anomaly detection for synthetic identities & forged credentials      |
-|  > Significant reduction in manual verification + AML compliance        |
-+--------------------------------------------------------------------------+
-|  Infotact Solutions · Full Stack Intern                                 |
-|  > 2 production platforms · Stripe payments · Admin dashboards         |
-|  > React + Django + MySQL · GitHub Actions CI/CD pipeline              |
-+--------------------------------------------------------------------------+
-|  Navodita Infotech · Data Science Intern                               |
-|  > Deep learning for X-ray & MRI anomaly detection                    |
-|  > CLAHE + histogram equalization via OpenCV · 87%+ accuracy          |
-+--------------------------------------------------------------------------+
-|  VaultOfCodes · Web Development Intern                                 |
-|  > Full resume generator · drag-drop · PDF export · theme switcher    |
-|  > MongoDB session persistence · TailwindCSS responsive UI            |
-+--------------------------------------------------------------------------+
-</div>
+<table>
+<tr>
+<td width="50%">
 
-🚀 Featured Projects
+### 🌊 Underwater Object Detection
+**USRF 2025 — Top 1% Fellowship**
+
+| | |
+|---|---|
+| Model | YOLO + ResfEANet |
+| Innovation | Murky water augmentation + External attention |
+| Result | **75% improvement in mAP** |
+| Datasets | BRAKISH · URPC (real-world) |
+
+</td>
+<td width="50%">
+
+### 🔍 AI Identity Verification
+**Infosys Springboard — KYC System**
+
+| | |
+|---|---|
+| Pipeline | Multi-Modal CV + OCR + Biometrics |
+| Task | Fraud Detection · Synthetic identity detection |
+| Impact | Reduced manual verification effort significantly |
+| Focus | AML compliance · Real-time anomaly detection |
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Production Projects
+
 <details>
-<summary><b>🧠 Agentic AI Mental Health Ecosystem</b> — LangChain · Genetic Algorithms · MERN &nbsp;[click to expand]</summary>
-<br/>
+<summary><b>🧠 Agentic AI Mental Health Ecosystem</b> — LangChain · Genetic Algorithms · MERN</summary>
 
-An autonomous healthcare platform that thinks, adapts, and evolves with the user in real time.
+> An autonomous healthcare platform that thinks, adapts, and evolves with the user.
 
-FeatureDetails🤖 AI AgentsSelf-learning LangChain agents for real-time personalized therapy📊 Multi-Modal MLTracks anxiety levels, heart rate & respiratory patterns🍽️ Smart ChatbotGenerates dynamic diet plans from live biometric data⚙️ OptimizationGenetic Algorithms for adaptive agent decision-making
-Stack: LangChain Generative AI MERN Stack Genetic Algorithms Multi-Modal ML
-→ View on GitHub
-</details>
-<details>
-<summary><b>🏥 UHILS — Unified Healthcare Intelligence & Logistics System</b> — Agentic AI · CV · LangChain &nbsp;[click to expand]</summary>
-<br/>
+- **Architected** self-learning LangChain agents delivering real-time personalized therapy
+- **Engineered** multi-modal ML models tracking physiological markers: anxiety, heart rate, respiratory patterns
+- **Developed** intelligent chatbot generating dynamic diet plans from live biometric analysis
+- **Optimized** agent decision-making via Genetic Algorithms for highly adaptive care pathways
 
-Bridging clinical decisions and AI in one full-stack environment.
+`LangChain` `Generative AI` `MERN Stack` `Genetic Algorithms` `Multi-Modal ML`
 
-FeatureDetails🔄 Agentic WorkflowsSync medical consultations + pharma supply chains👁️ Computer VisionAnomaly detection in MRIs, X-rays & skin infections🩸 Donor NetworkReal-time blood bank & life-support resource tracking📈 Predictive AnalyticsBiometric data to clinical decision support via LangChain
-Stack: Computer Vision LangChain Agentic AI MERN Stack Medical Imaging
-→ View on GitHub
-</details>
-<details>
-<summary><b>🌾 SmartAgro Platform</b> — CNN · TensorFlow · React PWA &nbsp;[click to expand]</summary>
-<br/>
+[→ View on GitHub](https://github.com/vanimalhotra22/silent-signal.git)
 
-Precision agriculture built for low-connectivity rural India.
-
-FeatureDetails🌿 Disease DetectionCNN + TensorFlow for plant disease & yield prediction🗣️ Bilingual UIHindi/English with Scikit-learn crop recommendations📱 Offline PWAWorks without internet — critical for rural environments💧 Smart IrrigationData-driven irrigation scheduling
-Stack: CNN TensorFlow Scikit-learn React Flask PWA
-→ View on GitHub
-</details>
-<details>
-<summary><b>🏘️ Hyperlocal Services Platform</b> — MERN · Flask · ML Vendor Ranking &nbsp;[click to expand]</summary>
-<br/>
-
-From search to booking in 80% less time.
-
-FeatureDetails🔍 DiscoveryEnd-to-end platform built on MERN stack🤖 ML RankingFlask backend ranking vendors on performance metrics📍 Geo-FilteringAdvanced geospatial filtering — 80% faster booking🧑‍💼 WorkflowsVendor & admin dashboards with automated booking
-Stack: MERN Stack Flask Machine Learning Geospatial Filtering
-→ View on GitHub
 </details>
 
-🛠️ Tech Arsenal
+<details>
+<summary><b>🏥 UHILS — Unified Healthcare Intelligence & Logistics System</b> — Agentic AI · CV · LangChain</summary>
+
+> Bridging clinical decisions and AI in one full-stack environment.
+
+- **Deployed** Agentic AI workflows synchronizing medical consultations and pharma supply chains
+- **Implemented** Image Recognition to detect anomalies in MRIs/X-rays and skin infections
+- **Built** real-time donor network managing blood bank inventories autonomously
+- **Utilized** LangChain + Predictive Analytics to translate biometric data into clinical insights
+
+`Computer Vision` `LangChain` `Agentic AI` `MERN Stack` `Medical Imaging`
+
+[→ View on GitHub](https://github.com/vanimalhotra22/UHLIS.git)
+
+</details>
+
+<details>
+<summary><b>🌾 SmartAgro Platform</b> — CNN · TensorFlow · React PWA</summary>
+
+> Precision agriculture for low-connectivity rural environments.
+
+- **Engineered** CNN + TensorFlow pipeline for plant disease detection & yield prediction
+- **Built** bilingual (Hindi/English) interface with Scikit-learn crop recommendations
+- **Architected** Progressive Web App (PWA) with offline capabilities — works without internet
+
+`CNN` `TensorFlow` `Scikit-learn` `React` `Flask` `PWA`
+
+[→ View on GitHub](https://github.com/vanimalhotra22/Smart-Agro.git)
+
+</details>
+
+<details>
+<summary><b>🏘️ Hyperlocal Services Platform</b> — MERN · Flask · ML Vendor Ranking</summary>
+
+> From search to booking in 80% less time.
+
+- **Built** end-to-end service discovery with ML-powered vendor ranking on performance data
+- **Designed** role-specific workflows: vendors, admins, automated booking management
+- **Implemented** advanced geospatial filtering — **80% reduction** in time-to-booking
+
+`MERN Stack` `Flask` `Machine Learning` `Geospatial Filtering`
+
+[→ View on GitHub](https://github.com/vanimalhotra22/hyperlocal.git)
+
+</details>
+
+---
+
+## 🛠️ Tech Stack
+
 <div align="center">
-Languages
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-ML / AI / GenAI
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Backend & DevOps
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Frontend & Databases
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+**ML / AI / GenAI**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+**Backend & DevOps**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
+**Frontend & Data**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
+
 </div>
 
-📊 GitHub Stats
+---
+
+## 💼 Experience
+
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│  PwC (PricewaterhouseCoopers) · LaunchPad Intern                        │
+│  ● Scalable data pipelines + GenAI workflow automation                  │
+│  ● ML/AI solutions translated into executive-level strategy             │
+│  ● Competitive campus selection · High-stakes consulting environment    │
+├─────────────────────────────────────────────────────────────────────────┤
+│  USRF 2025 · AI Research Fellow  [Top 1% of applicants]                 │
+│  ● YOLO + ResfEANet for underwater object detection                     │
+│  ● Murky water augmentation · Anchor tuning · External attention        │
+│  ● 75% improvement in mAP on BRAKISH and URPC datasets                 │
+├─────────────────────────────────────────────────────────────────────────┤
+│  Infotact Solutions · Full Stack Intern                                  │
+│  ● 2 production platforms · Stripe payments · Admin dashboards          │
+│  ● React + Django + MySQL · GitHub Actions CI/CD                        │
+├─────────────────────────────────────────────────────────────────────────┤
+│  Navodita Infotech · Data Science Intern                                 │
+│  ● Deep learning pipeline for X-ray/MRI anomaly detection               │
+│  ● CLAHE + histogram equalization (OpenCV) · 87%+ accuracy              │
+├─────────────────────────────────────────────────────────────────────────┤
+│  Infosys Springboard 6.0 · AI Identity Verification                     │
+│  ● KYC automation · OCR + Biometrics · AML compliance                   │
+│  ● Anomaly detection for synthetic identities + forged credentials      │
+└─────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🏆 Certifications
+
+| Badge | Certification | Issuer | Year |
+|---|---|---|---|
+| ❄️ | Snowpro Associate: Platform | Snowflake | 2025 |
+| ☁️ | Oracle Cloud Infrastructure 2025 — Data Science Professional | Oracle | 2025 |
+| 📊 | Summer Analytics 2025 | IIT Guwahati | 2025 |
+| 🤖 | ERP using GBI 3.30 on SAP S/4HANA | SAP | 2025 |
+| 🧠 | Big Data & Data Science Bootcamp | C-DAC, Noida | 2025 |
+| 💡 | Artificial Intelligence Primer + Data Science | Infosys Springboard | 2025 |
+| 🌐 | Frontend + Backend Web Development Bootcamp | DevTown | 2025 |
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vanimalhotra22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanimalhotra22&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" />
-<br/>
-Show Image
-<br/>
-Show Image
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vanimalhotra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanimalhotra&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF"/>
+
 </div>
 
-📈 Contribution Activity
 <div align="center">
-Show Image
-</div>
 
-🐍 Contribution Snake
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vanimalhotra22/vanimalhotra22/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vanimalhotra22/vanimalhotra22/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/vanimalhotra22/vanimalhotra22/output/github-snake-dark.svg" />
-</picture>
-
-Note: To enable the snake animation, add the GitHub Action below to your repo.
+[![GitHub Streak](https://streak-stats.demolab.com?user=vanimalhotra22&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)](https://git.io/streak-stats)
 
 </div>
 
-📜 Certifications
-<div align="center">
-BadgeCertificationIssuerYear❄️Snowpro Associate: PlatformSnowflake2025☁️Oracle Cloud Infrastructure 2025 — Data Science ProfessionalOracle2025📊Summer Analytics 2025IIT Guwahati2025🤖ERP using GBI 3.30 on SAP S/4HANASAP2025🧠Big Data & Data Science BootcampC-DAC, Noida2025💡Artificial Intelligence Primer + Data ScienceInfosys Springboard2025🌐Frontend + Backend Web Development BootcampDevTown2025
-</div>
+---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:0D1117&height=130&section=footer&text=Open%20to%20AI%2FML%20%7C%20Research%20%7C%20SDE%20Internships&fontSize=18&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%"/>
-<br/>
-Show Image
-Show Image
-Show Image
-<br/>
-"The best model is the one that ships — and the best engineer ships both."
+
+### `> Currently building at the intersection of AI research and production engineering`
+
+```
+   research ──────────────────────────────────────────────── production
+       │  YOLO · LangChain · RAG · Transformers · Agents  │
+       │                                                   │
+       │         [ V A N I   M A L H O T R A ]            │
+       │                                                   │
+       │  FastAPI · Docker · AWS · CI/CD · MERN · MLOps   │
+   theory ──────────────────────────────────────────────── deployment
+```
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vani-malhotra-contactvani)
+[![Email](https://img.shields.io/badge/Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanimalhotra00@gmail.com)
+
+*"The best model is the one that ships."*
+
 </div>
