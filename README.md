@@ -286,16 +286,18 @@ class VaniMalhotra:
 
 <div align="center">
 
-<img width="49%" src="https://github-stats-alpha.vercel.app/api?username=vanimalhotra22&cc=0D1117&tc=00D9FF&ic=00D9FF&bc=0D1117" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanimalhotra22&layout=donut&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" />
+<img width="55%" src="https://github-stats-alpha.vercel.app/api?username=vanimalhotra22&cc=0D1117&tc=00D9FF&ic=00D9FF&bc=0D1117" />
+
+<br/>
+
+![Repos](https://img.shields.io/badge/Repos-10-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)
+![Stars](https://img.shields.io/badge/Stars-3-00D9FF?style=for-the-badge&logo=star&logoColor=white&labelColor=0D1117)
+![Contributions](https://img.shields.io/badge/Contributions-29-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)
+![Followers](https://img.shields.io/badge/Followers-4-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)
 
 <br/><br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=vanimalhotra22&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=ffffff&dates=aaaaaa)](https://git.io/streak-stats)
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=vanimalhotra22&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=4" />
 
 </div>
 
