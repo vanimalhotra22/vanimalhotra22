@@ -25,44 +25,47 @@
 
 ## 🧬 About Me
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"/>
-</div>
-
-<br/>
+<table>
+<tr>
+<td valign="top" width="60%">
 
 ```python
 class VaniMalhotra:
 
-    role        = ["AI/ML Engineer", "Full-Stack Developer", "AI Research Fellow"]
-    university  = "SRMIST, Kattankulatham, Chennai"
-    cgpa        = 9.87        # Top 1% of cohort
-    batch       = "2023 - 2027"
-    location    = "India"
-    seeking     = "AI/ML | Research | SDE Internship"
+    role       = ["AI/ML Engineer",
+                  "Full-Stack Developer",
+                  "AI Research Fellow"]
+    university = "SRMIST, Chennai"
+    cgpa       = 9.87   # Top 1% of cohort
+    batch      = "2023 - 2027"
+    location   = "India"
+    seeking    = "AI/ML | Research | SDE Internship"
 
-    ml_stack    = ["PyTorch", "TensorFlow", "LangChain", "LangGraph",
-                   "RAG", "Transformers", "Scikit-learn", "Pinecone"]
+    ml_stack   = ["PyTorch", "TensorFlow",
+                  "LangChain", "LangGraph",
+                  "RAG", "Transformers",
+                  "Scikit-learn", "Pinecone"]
 
-    dev_stack   = ["FastAPI", "Flask", "React", "Node.js", "Docker", "AWS", "Django"]
+    dev_stack  = ["FastAPI", "Flask", "React",
+                  "Node.js", "Docker", "AWS"]
 
-    currently   = "Building production-grade Agentic AI"
-    superpower  = "Research to Production (end-to-end)"
+    superpower = "Research → Production"
 ```
+
+</td>
+<td valign="center" width="40%">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300"/>
+</td>
+</tr>
+</table>
 
 <br/>
 
-<div align="center">
-
-| | |
-|---|---|
-| 🔬 | **USRF 2025 Research Fellow** — Top 1% · YOLO + ResfEANet · **75% mAP improvement** |
-| 💼 | **PwC LaunchPad Intern** — GenAI pipelines · Consulting · Data Engineering |
-| 🧠 | Expert in **Agentic AI**, LLM fine-tuning, RAG, and Computer Vision |
-| 🏥 | Deployed AI in **healthcare, agriculture & hyperlocal commerce** |
-| ⚡ | I don't just train models — I **ship systems** that solve real problems |
-
-</div>
+- 🔬 **USRF 2025 Research Fellow** — Top 1% · YOLO + ResfEANet · **75% mAP improvement**
+- 💼 **PwC LaunchPad Intern** — GenAI pipelines · Consulting · Data Engineering
+- 🧠 Expert in **Agentic AI**, LLM fine-tuning, RAG, and Computer Vision
+- 🏥 Deployed AI systems in **healthcare, agriculture & hyperlocal commerce**
+- ⚡ I don't just train models — I **ship systems** that solve real problems
 
 ---
 
