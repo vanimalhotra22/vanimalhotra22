@@ -149,7 +149,7 @@ class VaniMalhotra:
 
 **Stack:** `Computer Vision` `LangChain` `Agentic AI` `MERN Stack` `Medical Imaging`
 
-[→ View on GitHub](https://github.com/vanimalhotra22/UHLIS)
+[→ View on GitHub](https://github.com/vanimalhotra22/UHLIS-Healthcare.git)
 
 </details>
 
