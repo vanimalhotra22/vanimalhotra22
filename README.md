@@ -6,16 +6,17 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&height=50&lines=🏆+9.87+GPA+%7C+Top+1%25+of+Cohort;🔬+USRF+2025+Research+Fellow+%7C+Top+1%25+Applicants;💼+PwC+LaunchPad+Intern+%7C+GenAI+%26+Data+Engineering;🧠+LangChain+·+RAG+·+Transformers+·+Agentic+AI;🚀+Research+→+Production+AI+Systems)](https://git.io/typing-svg)
 
-<div align="center">
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2300D9FF.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vanimalhotra22.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vani-malhotra-contactvani)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanimalhotra00@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vanimalhotra22)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/vm2180/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=vanimalhotra22&color=00d9ff&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/vanimalhotra22?label=FOLLOWERS&style=for-the-badge&color=00d9ff)
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=vanimalhotra22&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/vanimalhotra22?style=for-the-badge&color=00d9ff&labelColor=0D1117&label=FOLLOWERS)
 
 </div>
 
@@ -23,25 +24,26 @@
 
 ## 🧬 About Me
 
-<img align="right" alt="Coding AI" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"/>
+</div>
+
+<br/>
 
 ```python
- VaniMalhotra:
+class VaniMalhotra:
 
-    role        = ["AI/ML Engineer", "Full-Stack Developer",
-                   "AI Research Fellow"]
+    role        = ["AI/ML Engineer", "Full-Stack Developer", "AI Research Fellow"]
     university  = "SRMIST, Kattankulatham, Chennai"
-    cgpa        = 9.87         # Top 1% of cohort
+    cgpa        = 9.87        # Top 1% of cohort
     batch       = "2023 - 2027"
     location    = "India"
     seeking     = "AI/ML | Research | SDE Internship"
 
-    ml_stack    = ["PyTorch", "TensorFlow", "LangChain",
-                   "LangGraph", "RAG", "Transformers",
-                   "Scikit-learn", "Pinecone"]
+    ml_stack    = ["PyTorch", "TensorFlow", "LangChain", "LangGraph",
+                   "RAG", "Transformers", "Scikit-learn", "Pinecone"]
 
-    dev_stack   = ["FastAPI", "Flask", "React",
-                   "Node.js", "Docker", "AWS", "Django"]
+    dev_stack   = ["FastAPI", "Flask", "React", "Node.js", "Docker", "AWS", "Django"]
 
     currently   = "Building production-grade Agentic AI"
     superpower  = "Research to Production (end-to-end)"
@@ -49,13 +51,17 @@
 
 <br/>
 
-- 🔬 **USRF 2025 Research Fellow** — Top 1% · YOLO + ResfEANet · **75% mAP improvement**
-- 💼 **PwC LaunchPad Intern** — GenAI pipelines · Consulting · Data Engineering
-- 🧠 Expert in **Agentic AI**, LLM fine-tuning, RAG, and Computer Vision
-- 🏥 Deployed AI systems in **healthcare, agriculture & hyperlocal commerce**
-- ⚡ I don't just train models — I **ship systems** that solve real problems
+<div align="center">
 
-<br clear="right"/>
+| | |
+|---|---|
+| 🔬 | **USRF 2025 Research Fellow** — Top 1% · YOLO + ResfEANet · **75% mAP improvement** |
+| 💼 | **PwC LaunchPad Intern** — GenAI pipelines · Consulting · Data Engineering |
+| 🧠 | Expert in **Agentic AI**, LLM fine-tuning, RAG, and Computer Vision |
+| 🏥 | Deployed AI in **healthcare, agriculture & hyperlocal commerce** |
+| ⚡ | I don't just train models — I **ship systems** that solve real problems |
+
+</div>
 
 ---
 
@@ -129,7 +135,7 @@
 
 **Stack:** `LangChain` `Generative AI` `MERN Stack` `Genetic Algorithms` `Multi-Modal ML`
 
-[→ View on GitHub](https://github.com/vanimalhotra22/MentalHealth-NeuralMesh.git)
+[→ View on GitHub](https://github.com/vanimalhotra22/silent-signal)
 
 </details>
 
@@ -148,7 +154,7 @@
 
 **Stack:** `Computer Vision` `LangChain` `Agentic AI` `MERN Stack` `Medical Imaging`
 
-[→ View on GitHub](https://github.com/vanimalhotra22/UHLIS-Healthcare.git)
+[→ View on GitHub](https://github.com/vanimalhotra22/UHLIS)
 
 </details>
 
@@ -167,7 +173,7 @@
 
 **Stack:** `CNN` `TensorFlow` `Scikit-learn` `React` `Flask` `PWA`
 
-[→ View on GitHub](https://github.com/vanimalhotra22/SmartWeather.git)
+[→ View on GitHub](https://github.com/vanimalhotra22/Smart-Agro)
 
 </details>
 
