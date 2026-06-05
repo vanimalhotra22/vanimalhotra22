@@ -130,7 +130,7 @@ class VaniMalhotra:
 
 **Stack:** `LangChain` `Generative AI` `MERN Stack` `Genetic Algorithms` `Multi-Modal ML`
 
-[→ View on GitHub](https://github.com/vanimalhotra22/silent-signal)
+[→ View on GitHub](https://github.com/vanimalhotra22/MentalHealth-NeuralMesh.git)
 
 </details>
 
