@@ -32,7 +32,7 @@
     role        = ["AI/ML Engineer", "Full-Stack Developer",
                    "AI Research Fellow"]
     university  = "SRMIST, Kattankulatham, Chennai"
-    cgpa        = 9.87        # Top 1% of cohort
+    cgpa        = 9.9        # Top 1% of cohort
     batch       = "2023 - 2027"
     location    = "India"
     seeking     = "AI/ML | Research | SDE Internship"
