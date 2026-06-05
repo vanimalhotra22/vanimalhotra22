@@ -12,7 +12,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanimalhotra00@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vanimalhotra22)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/vm2180/)
-[![Portfolio](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://vanimalhotra22.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FFA116?style=for-the-badge&logo=Portfolio&logoColor=black)](https://vanimalhotra22.github.io/Portfolio/)
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vanimalhotra22&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
