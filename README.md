@@ -7,12 +7,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&height=50&lines=🏆+9.87+GPA+%7C+Top+1%25+of+Cohort;🔬+USRF+2025+Research+Fellow+%7C+Top+1%25+Applicants;💼+PwC+LaunchPad+Intern+%7C+GenAI+%26+Data+Engineering;🧠+LangChain+·+RAG+·+Transformers+·+Agentic+AI;🚀+Research+→+Production+AI+Systems)](https://git.io/typing-svg)
 
 <br/>
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2300D9FF.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vanimalhotra22.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vani-malhotra-contactvani)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanimalhotra00@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vanimalhotra22)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/vm2180/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FFA116?style=for-the-badge&logo=Portfolio&logoColor=black)](https://vanimalhotra22.github.io/Portfolio/)
+
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vanimalhotra22&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
