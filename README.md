@@ -113,7 +113,7 @@ class VaniMalhotra:
 
 ---
 
-## 🚀 Featured 
+## 🚀 Featured Projects
 
 <details>
 <summary><b>🧠 Agentic AI Mental Health Ecosystem</b> — LangChain · Genetic Algorithms · MERN &nbsp;[click to expand]</summary>
