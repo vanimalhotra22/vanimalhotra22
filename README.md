@@ -168,7 +168,7 @@ class VaniMalhotra:
 
 **Stack:** `CNN` `TensorFlow` `Scikit-learn` `React` `Flask` `PWA`
 
-[→ View on GitHub](https://github.com/vanimalhotra22/Smart-Agro)
+[→ View on GitHub](https://github.com/vanimalhotra22/SmartWeather.git)
 
 </details>
 
