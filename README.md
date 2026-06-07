@@ -61,7 +61,7 @@ class VaniMalhotra:
 
 <br/>
 
-- 🔬 **USRF 2025 Research Fellow** — Top 1% · YOLO + ResfEANet · **75% mAP improvemen**
+- 🔬 **USRF 2025 Research Fellow** — Top 1% · YOLO + ResfEANet · **75% mAP improvement**
 - 💼 **PwC LaunchPad Intern** — GenAI pipelines · Consulting · Data Engineering
 - 🧠 Expert in **Agentic AI**, LLM fine-tuning, RAG, and Computer Vision
 - 🏥 Deployed AI systems in **healthcare, agriculture & hyperlocal commerce**
