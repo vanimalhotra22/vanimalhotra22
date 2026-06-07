@@ -23,7 +23,7 @@
 
 ---
 
-## 🧬 About 
+## 🧬 About Me
 
 <table>
 <tr>
